@@ -25,9 +25,17 @@ increments, and checked what percentage of the campaigns were successful, which 
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Theater_Outcomes vs Launch.png](https://github.com/lindsera1/kickstarter-analysis/blob/master/resources/Theater_Outcomes_vs_Launch.png)
 
+Here graphed are the outcomes of theater campaigns dependent upon the month they were launched. Based on the graph, we can see
+the summer months performed much better than the rest of the months for theater. However, failed campaigns did not seem to differ much with the passing of time. Could there perhaps be more to the success and failures than we are currently seeing?
 
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes vs Goals.png](https://github.com/lindsera1/kickstarter-analysis/blob/master/resources/Outcomes_vs_Goals.png)
+
+Here we can see a clear picture of how the outcomes are affected at multiple dollar amounts. We can conlude that campaigns asking for lower amounts seem more likely to be successful than those at higher amounts. However, we do see that some categories
+have percent successes that are very similar to the percent successes of the lower dollar amounts.
 
 ### Challenges and Difficulties Encountered
 
